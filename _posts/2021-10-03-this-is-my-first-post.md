@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This is my first post
-author: MasterAddy
+author: masteraddy
 categories:
 - Tech
 - 'Blogging '

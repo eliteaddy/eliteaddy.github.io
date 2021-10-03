@@ -23,3 +23,5 @@ fields:
 - type: boolean
   name: hidden
   label: hidden
+pages:
+- _posts/this-is-my-first-post.md

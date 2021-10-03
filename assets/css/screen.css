@@ -1,8 +1,4 @@
-/* 
-Template Name: Mediumish 
-Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
-License: https://www.wowthemes.net/freebies-license/ 
-*/
+
 @media screen and (min-width:1500px) {
     html { font-size:18px; } /* Increase the font size on higher resolutions */
     .container {max-width:80%;}
@@ -774,7 +770,7 @@ iframe {
         padding: 0;
         height: 350px;
         border-radius: 0;
-        background-image: url(../images/jumbotron.jpg);
+        background-image: url(https://res-1.cloudinary.com/hbvjrqyqn/image/upload/q_auto/v1/ghost-blog-images/death-164761_1280.jpg);
         background-size: cover;
     }
 
@@ -792,7 +788,7 @@ iframe {
     margin-top: 3rem;
     padding: 0;
     border-radius: 0;
-    background-image: url(../images/jumbotron.jpg);
+    background-image: url(https://res-1.cloudinary.com/hbvjrqyqn/image/upload/q_auto/v1/ghost-blog-images/death-164761_1280.jpg);
     background-size: cover;
 }
 

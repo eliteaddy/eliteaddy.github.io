@@ -1,7 +1,7 @@
 # Site
 name: "XVII"
 title: "XVII"
-description: "Jekyll template, Medium styled, free for bloggers."
+description: "Thoughts, stories, ideas and news."
 logo: 'https://res-5.cloudinary.com/hbvjrqyqn/image/upload/q_auto/v1/ghost-blog-images/ghost-35852_640.png'
 favicon: 'https://res-5.cloudinary.com/hbvjrqyqn/image/upload/q_auto/v1/ghost-blog-images/ghost-35852_640.png'
 baseurl: 
@@ -20,7 +20,7 @@ authors:
     email: aiadesile@gmail.com
     web: https://addy.vercel.app
     twitter: https://twitter.com/itsmasteraddy
-    description: "Author at XVII, a Web and Mobile Developer, and a blogger. I hope you'll enjoy our time together."
+    description: "Author at XVII, a Web and Mobile Developer, and a blogger. I hope we'll enjoy our time together."
   
 # Plugins
 plugins:

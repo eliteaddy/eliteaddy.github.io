@@ -25,3 +25,4 @@ fields:
   label: hidden
 pages:
 - _posts/2021-10-03-this-is-my-first-post.md
+- privacy-policy.md

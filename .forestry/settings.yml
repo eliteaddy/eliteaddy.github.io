@@ -10,6 +10,11 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
+- type: directory
+  path: _pages
+  label: MD Pages
+  create: all
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

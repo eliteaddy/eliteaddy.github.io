@@ -4,7 +4,8 @@ title: "XVII"
 description: "Thoughts, stories, ideas and news."
 logo: 'https://res-5.cloudinary.com/hbvjrqyqn/image/upload/q_auto/v1/ghost-blog-images/ghost-35852_640.png'
 favicon: 'https://res-5.cloudinary.com/hbvjrqyqn/image/upload/q_auto/v1/ghost-blog-images/ghost-35852_640.png'
-baseurl: 
+baseurl:
+mainurl: 'https://xvii.netlify.app' 
 google_analytics: 'UA-46278016-1'
 disqus: 'xvii'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'

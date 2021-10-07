@@ -3,7 +3,6 @@ layout: page
 title: 'Test Snippet '
 permalink: test-snippet
 comments: false
-published: false
 
 ---
 

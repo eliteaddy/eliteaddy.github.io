@@ -5,6 +5,7 @@ permalink: test-snippet
 comments: false
 
 ---
-<div class="youtube-embed--wrapper"> <iframe class="youtube-embed" src="https://www.youtube-nocookie.com/embed/Sb_PSzM-GEU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </div>
+
+<iframe style="width:100%;" height="315" src="https://www.youtube-nocookie.com/embed/Sb_PSzM-GEU?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 Testing

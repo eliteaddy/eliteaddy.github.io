@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About XVII
+title: About EliteAddy
 permalink: "/about"
 comments: false
 

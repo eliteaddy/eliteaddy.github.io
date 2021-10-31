@@ -1,6 +1,6 @@
-# XVII Blog (it means seventeen which I don't know why I named it that)
+# EliteAddy's Blog (This is my official blog. It was once my Portfolio website but I turned it to blog)
 
-[Live At](https://xvii.netlify.app/) &nbsp; 
+[Live At](https://eliteaddy.github.io/) &nbsp; 
 
 This is my blog built with Jekyll and Mediumish template from wowthemes.net
 
